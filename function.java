@@ -5,3 +5,8 @@ function1() {
 function3() {
 	echo "Hello world"
 }
+
+function2() {
+
+	echo "Hello world"
+}
